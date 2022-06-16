@@ -1,0 +1,17 @@
+[
+  {
+    "package": "EHRtemporalVariability",
+    "oncran": true
+  },
+  {
+    "package": "picker",
+    "oncran": true
+  },
+  {
+    "package": "UpSetR",
+    "oncran": true
+  },
+  {
+    "package": "scde"
+  }
+]

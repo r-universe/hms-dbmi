@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EHRtemporalVariability"]
+	path = EHRtemporalVariability
+	url = https://github.com/hms-dbmi/ehrtemporalvariability
+	shallow = true
+	registered = true
+[submodule "picker"]
+	path = picker
+	url = https://github.com/hms-dbmi/picker
+	shallow = true
+	registered = true
+[submodule "UpSetR"]
+	path = UpSetR
+	url = https://github.com/hms-dbmi/upsetr
+	shallow = true
+	registered = true
+[submodule "scde"]
+	path = scde
+	url = https://github.com/hms-dbmi/scde
+	shallow = true
+	registered = true
