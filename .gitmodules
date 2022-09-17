@@ -18,8 +18,3 @@
 	url = https://github.com/hms-dbmi/upsetr
 	shallow = true
 	registered = true
-[submodule "scde"]
-	path = scde
-	url = https://github.com/hms-dbmi/scde
-	shallow = true
-	registered = true
