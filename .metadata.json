@@ -10,5 +10,8 @@
   {
     "package": "UpSetR",
     "oncran": true
+  },
+  {
+    "package": "scde"
   }
 ]
