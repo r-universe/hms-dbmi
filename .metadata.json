@@ -1,9 +1,5 @@
 [
   {
-    "package": "EHRtemporalVariability",
-    "oncran": true
-  },
-  {
     "package": "picker",
     "oncran": true
   },
@@ -13,5 +9,9 @@
   },
   {
     "package": "scde"
+  },
+  {
+    "package": "EHRtemporalVariability",
+    "oncran": true
   }
 ]
