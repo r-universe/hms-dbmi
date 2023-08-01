@@ -5,12 +5,12 @@
 [submodule "EHRtemporalVariability"]
 	path = EHRtemporalVariability
 	url = https://github.com/hms-dbmi/ehrtemporalvariability
+[submodule "UpSetR"]
+	path = UpSetR
+	url = https://github.com/hms-dbmi/upsetr
 [submodule "picker"]
 	path = picker
 	url = https://github.com/hms-dbmi/picker
 [submodule "scde"]
 	path = scde
 	url = https://github.com/hms-dbmi/scde
-[submodule "UpSetR"]
-	path = UpSetR
-	url = https://github.com/hms-dbmi/upsetr
