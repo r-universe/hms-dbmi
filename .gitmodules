@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "EHRtemporalVariability"]
-	path = EHRtemporalVariability
-	url = https://github.com/hms-dbmi/ehrtemporalvariability
 [submodule "UpSetR"]
 	path = UpSetR
 	url = https://github.com/hms-dbmi/upsetr
